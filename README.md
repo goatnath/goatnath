@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm goatNATH!</h1>
   <a href="https://github.com/goatnath">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=7aa2f7&center=true&vCenter=true&width=800&height=50&lines=Vibecoding+Desktop+Tools;Diving+into+CFD;Working+on+LiqVid" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1500&color=7aa2f7&center=true&vCenter=true&width=800&height=50&lines=Designing+the+perfect+desktop;Engineering+fluid+simulations;Building+tools+that+just+work" alt="Typing SVG" />
   </a>
 </div>
 
