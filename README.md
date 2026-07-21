@@ -7,9 +7,9 @@
 
 ### About Me
 
-My primary focus is on building tools that make my desktop experience better—I call it vibecoding. When I'm not customizing my environment, I absolutely love diving deep into Computational Fluid Dynamics (CFD).
+My primary focus is on building tools that make my desktop experience better. When I'm not customizing my environment, I might be diving deep into Computational Fluid Dynamics (CFD).
 
-- **Current Focus:** Vibecoding tools for an aesthetic, high-performance desktop experience.
+- **Current Focus:** Making tools for an aesthetic, high-performance desktop experience.
 - **Side Quests:** I'm currently working on **LiqVid**, a custom 3D fluid simulation and Navier-Stokes solver built from scratch in Rust.
 
 ---
