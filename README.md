@@ -32,13 +32,4 @@ My primary focus is on building tools that make my desktop experience better. Wh
 
 ---
 
-### GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goatnath&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="goatnath's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goatnath&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goatnath&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
-</div>
